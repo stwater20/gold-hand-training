@@ -1,5 +1,7 @@
 # 程式輸入輸出範例
 
+來源：https://hackmd.io/@biz-pg/stdin
+
 ## DOMjudge 與本地 stdin 測試方式
 
 DOMjudge 執行程式時，會把測試資料送到程式的標準輸入（stdin）。在 DOMjudge 介面上通常只需要上傳 source code 檔案，不需要在程式中開啟 `in.txt` 或其他固定檔名。
