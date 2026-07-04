@@ -11,7 +11,7 @@
 | 編號 | 檔案 | 主題 |
 | --- | --- | --- |
 | 0 | [`0_python_basics.ipynb`](0_python_basics.ipynb) | 基礎語法：f-string、Packing/Unpacking、Shallow/Deep Copy |
-| 0 | [`0_python_time_complexity_bubble_merge_demo_for_students.ipynb`](0_python_time_complexity_bubble_merge_demo_for_students.ipynb) | 時間複雜度入門：泡沫排序 vs 合併排序示範 |
+| 0 | [`0_python_time_complexity_bubble_merge_demo.ipynb`](0_python_time_complexity_bubble_merge_demo.ipynb) | 時間複雜度入門：泡沫排序 vs 合併排序示範 |
 | 1 | [`1_c_cpp_python_run_speed.ipynb`](1_c_cpp_python_run_speed.ipynb) | C/C++ 與 Python 執行速度比較 |
 | 2 | [`2_python_coding_principles.ipynb`](2_python_coding_principles.ipynb) | 程式撰寫風格與原則 |
 | 3 | [`3_python_recursion.ipynb`](3_python_recursion.ipynb) | 遞迴基礎 |
