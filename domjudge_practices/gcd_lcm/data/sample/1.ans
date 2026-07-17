@@ -1,0 +1,11 @@
+Case 1:
+GCD(6,11) = 1
+LCM(6,11) = 66
+
+Case 2:
+no GCD
+no LCM
+
+Case 3:
+GCD(6,9) = 3
+LCM(6,9) = 18
