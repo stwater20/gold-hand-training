@@ -2,6 +2,10 @@
 
 本專案是高級中等學校技藝競賽選手（程式設計）培訓課程教材，由三重商工資料處理科林易民老師與陳勝舢博士共同製作。內容以「全國高級中等學校學生商業類技藝競賽－程式設計職種」為目標，涵蓋 Python 基礎語法、演算法與時間複雜度、常見競賽解題技巧，以及 DOMjudge 線上評測系統使用說明與歷屆試題。（滾動式新增）
 
+## 比賽用 VM
+
+[https://inc-s3.ntub.edu.tw/share-files/judge-vm/judge-client/2026/Windows.zip](https://inc-s3.ntub.edu.tw/share-files/judge-vm/judge-client/2026/Windows.zip)
+
 ## 教材內容說明
 
 ### Python 教學筆記本（Jupyter Notebook）
